@@ -1,0 +1,22 @@
+# User-specific files
+UserSettings/
+
+# Build directories
+Builds/
+Build/
+ExportedObj/
+
+# Unity Cache
+Library/
+obj/
+
+# Temporary files
+Temp/
+
+# Auto-generated files
+.vs/
+.idea/
+.DS_Store
+
+# Unity Cloud Build
+CloudBuild/
